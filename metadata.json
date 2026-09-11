@@ -1,0 +1,6 @@
+{
+  "name": "FC Mobile Stepladder Tournament",
+  "description": "Tournament manager and tracker for FC Mobile stepladder league featuring 4 players, 6 league matches, playoffs, and grand final.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
